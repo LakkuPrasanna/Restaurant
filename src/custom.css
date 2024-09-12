@@ -1,0 +1,308 @@
+.restlogo {
+  width: 60px;
+  height: 60px;
+
+  padding: 0px;
+
+}
+
+.box {
+  background-color: transparent;
+  width: 20%;
+  height: 350px;
+  padding: 15px;
+  margin: 30px;
+  justify-content: space-evenly;
+  border-radius: 10%;
+  color: white;
+
+
+
+
+}
+
+.ff {
+  background-color: black;
+
+
+}
+
+.navbar {
+  background-color: black;
+
+  h6:hover {
+    color: #fea116;
+  }
+}
+
+.ff-secondary {
+  color: #fea116;
+  font-family: 'Pacifico', 'cursive';
+  font-weight: 400;
+}
+
+.spin {
+  margin-top: 120px;
+  height: 500px;
+  animation: spin 10s linear infinite;
+  margin-bottom: 30px;
+
+
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.main-content {
+  background-image: url("https://wallpaperaccess.com/full/3353887.jpg");
+margin-top: 80px;
+}
+
+.content {
+  margin-top: 250px;
+  margin-left: 2px;
+}
+
+.mem {
+  background-color: black;
+}
+
+.uname {
+  margin-top: 100px;
+  position: absolute;
+
+}
+
+
+.san {
+  color: red;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.san1 {
+  color: brown;
+
+}
+
+.san2 {
+  width: 40%;
+  margin-right: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.san3 {
+  margin: 100px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.nbox {
+
+
+  font-family: 'Times New Roman', Times, serif;
+
+  text-align: center;
+
+
+
+  width: 100%;
+}
+
+.nbox1 {
+  color: aliceblue;
+  background-color: crimson;
+
+
+
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+
+}
+
+.san4 {
+  background-color: rgb(255, 136, 0);
+  color: aliceblue;
+  justify-content: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.san5 {
+  width: 400px;
+  padding-left: 40px;
+  height: 400px;
+  margin-right: 50px;
+  ;
+
+}
+
+.san6 {
+  margin-right: 60px;
+  font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+.san7 {
+  margin-left: 20px;
+  ;
+
+
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.san8 {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.san9 {
+  margin: 40px;
+
+}
+
+.san10 {
+  margin-right: 5px;
+  margin-left: 40px;
+  background-color: brown;
+  margin-bottom: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.san11 {
+  margin-right: 5px;
+  margin-left: 40px;
+  background-color: orange;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.san12 {
+  margin-left: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.san13 {
+  text-align: center;
+
+  color: olivedrab;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+
+.san14 {
+  padding-left: 400px;
+  color: white;
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.san15 {
+  padding-left: 500px;
+  color: white;
+  font-size: 60px;
+  margin-bottom: 40px;
+}
+
+.san16 {
+  width: 30px;
+}
+
+.san17 {
+  width: 500px;
+  height: 550px;
+}
+
+.san19 {
+
+  width: 200px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.san20 {
+  width: 500px;
+  margin-left: 50px;
+  margin-right: 50;
+}
+
+
+
+.vid {
+
+  opacity: 1;
+  animation: fadeinout 2s linear infinite;
+
+
+}
+
+@keyframes fadeinout {
+
+  0%,
+  100% {
+    opacity: 0
+  }
+
+  50% {
+    opacity: 1
+  }
+}
+
+.pic {
+  display: flex;
+  padding: 0px;
+  margin: 0px;
+}
+
+.w {
+  width: 25%;
+  height: 50%
+}
+
+.b {
+  padding-bottom: 20px;
+  margin: 10px;
+  margin-bottom: 90px;
+  padding: 30px;
+  margin-top: 30px;
+}
+
+.b:hover {
+  background-color: chocolate;
+}
+
+.head {
+  z-index: 100000000000000;
+  width: 100%;
+  background-color: black;
+
+
+}
+
+.navbar {
+  color: white;
+
+  h6:hover {
+    color: #fe7e16;
+
+  }
+
+  a,
+  h6 {
+    padding-right: 27px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+  }
+
+  h1 {
+    padding-top: 20px;
+    padding-right: 90px;
+  }
+
+}
